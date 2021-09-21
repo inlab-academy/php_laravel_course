@@ -1,0 +1,40 @@
+ exercise number 1
+    Create a webpage that prints your name to the screen.
+ exercise number 2
+    Create a webpage that prints the numbers 1 - 10 to the screen.
+ exercise number 3
+    Create a webpage and set its title to "This is a webpage".
+ exercise number 4
+    Create a webpage that prints the message "When was this webpage created? Check page's title for the answer." to the screen, and set the title of the page to the current date.
+ exercise number 5
+    Create a webpage that prints any text of your choosing to the screen, do not include a head section in the code.
+ exercise number 6
+    Print your name in green.
+ exercise number 7
+    Print the numbers 1 - 10, each number being a different color.
+ exercise number 8
+    Print your name in a Tahoma font.
+ exercise number 9
+    Print a paragraph with 4 - 5 sentences. Each sentence should be a different font.
+ exercise number 10
+    Print a paragraph that is a description of a book, include the title of the book as well as its author. Names and titles should be underlined, adjectives should be italicized and bolded.
+ exercise number 11
+    Print the squares of the numbers 1 - 20. Each number should be on a separate line, next to it the number 2 superscripted, an equal sign and the result. (Example: 102 = 100)
+ exercise number 12
+    Print two paragraphs that are both indented using the &nbsp; command.
+ exercise number 13
+    Print two lists with any information you want. One list should be an ordered list, the other list should be an unordered list.
+ exercise number 14
+    Download a file when clicking on the link.
+ exercise number 15
+    Create a webpage that tells anything about you
+ exercise number 16
+    Create a webpage that what do you do in your free times
+ exercise number 17
+    Create a webpage that shows the table of all of your coursemates (include pictures, phone numbers and brief description and link that shows whole information about him or her) 
+ exercise number 18
+    Create a webform that you can enter your name, username, gender, age, the date of birth, height, weight, health condition(option)
+ exercise number 19
+    Create a full home page for your blog post 
+ exercise number 20
+    Create any project you want
