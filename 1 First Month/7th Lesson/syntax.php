@@ -49,3 +49,19 @@ EcHo "Hello World!<br>";
 
 
 <!--Eslatma: Biroq; barcha o'zgaruvchilar nomlari katta-kichik harflar bilan yoziladi va ular farqlanadi!-->
+
+
+<!--Quyidagi misolga qarang; faqat birinchi  $color o'zgaruvchisining qiymatini ko'rsatadi! Buning sababi shundaki, $cOlor, $COLOR va $coLOR uch xil o'zgaruvchi sifatida qaraladi:-->
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$color = "red";
+echo "My car is " . $color . "<br>";
+echo "My house is " . $COLOR . "<br>";
+echo "My boat is " . $coLOR . "<br>";
+?>
+
+</body>
+</html>
